@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="100%" height="100%">
+      <rect width="600" height="800" fill="#090d16"/>
+      <circle cx="300" cy="400" r="200" fill="none" stroke="#7c5cfc" stroke-width="4" opacity="0.3"/>
+      <text x="300" y="250" text-anchor="middle" font-family="'monospace'" font-size="44" font-weight="bold" fill="#7c5cfc">&lt;SOVEREIGN&gt;</text>
+      <text x="300" y="320" text-anchor="middle" font-family="'monospace'" font-size="52" font-weight="900" fill="#ffffff">CODE</text>
+      <text x="300" y="480" text-anchor="middle" font-family="'Inter', sans-serif" font-size="18" fill="#94a3b8">A Reincarnated Coder's Story</text>
+      <rect x="150" y="530" width="300" height="4" fill="#7c5cfc"/>
+      <text x="300" y="700" text-anchor="middle" font-family="'Inter', sans-serif" font-size="16" fill="#94a3b8">BY ELENA VANCE</text>
+    </svg>
